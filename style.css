@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+   
+}
+main{
+    
+    width: 900px;
+    margin: auto;
+}
+img{
+    margin-top: 0px;
+    
+}
+img#logo{
+     margin-top: 20px;
+    
+}
+h2{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+nav{
+    text-align: right;
+    
+}
+footer{
+    margin-top: 20px;
+    text-align: center;
+
+}
